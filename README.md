@@ -1,2 +1,0 @@
-# yuka-bank
-Yuka Bank
