@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yuka-bank/static/css/main.073c9b0a.css",
+    "main.js": "/yuka-bank/static/js/main.717198c5.js",
+    "static/js/787.46a7f28f.chunk.js": "/yuka-bank/static/js/787.46a7f28f.chunk.js",
+    "index.html": "/yuka-bank/index.html",
+    "main.073c9b0a.css.map": "/yuka-bank/static/css/main.073c9b0a.css.map",
+    "main.717198c5.js.map": "/yuka-bank/static/js/main.717198c5.js.map",
+    "787.46a7f28f.chunk.js.map": "/yuka-bank/static/js/787.46a7f28f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.717198c5.js"
+  ]
+}
